@@ -1,0 +1,96 @@
+body{
+  background:#fff;
+  font-family: 'Segoe UI';
+  padding-left: 0%;
+  padding-right: 0%;
+}
+
+#tutor{
+  text-align:left;
+  color : #;
+  font-size: 18px;
+}
+
+#tutor2{
+  font-weight: bold;
+  text-align:left;
+  color : #;
+  font-size: 18px;
+}
+
+#layar{
+  font-weight: bold;
+  color :#000;
+  font-size: 22px;
+}
+
+#viewpesan{
+  text-align: left;
+  overflow-y: scroll;
+  height: 150px;
+  width:360px;
+  margin-left:20px;
+  font-weight: bold;
+  color :#000;
+  font-size:16px;
+}
+
+#cmd{
+  font-weight: bold;
+  color :#000;
+  font-size:22px;
+}
+
+#viewpesan2{
+  margin-left:20px;
+  font-weight: bold;
+  color :#000;
+  font-size:16px;
+}
+
+#isipesanbox {
+  border: 2px solid #000;
+  background: #fff;
+  color: #000;
+  font-size: 100%;
+  left :5%;
+  width: 80%;
+  height: 30px;
+}
+
+#tombolkirim {
+  font-size: 18px;
+  font-weight: bold;
+  border: 2px solid #000;
+  background: #fff;
+  color: #000;
+  width: 15%;
+  height: 37px;
+}
+
+#fileupload {
+  border: 2px solid #000;
+  background: #fff;
+  color: #000;
+  font-size: 100%;
+  left :5%;
+  width: 81%;
+  height: 32px;
+}
+
+#tombolupload {
+  font-size: 18px;
+  font-weight: bold;
+  border: 2px solid #000;
+  background: #fff;
+  color: #000;
+  width: 15%;
+  height: 37px;
+}
+
+#footer{
+  margin-left:20px;
+  font-weight: bold;
+  color :#000;
+  font-size:16px;
+}
