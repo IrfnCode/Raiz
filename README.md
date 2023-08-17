@@ -1,8 +1,7 @@
 
 
 
-# SC Iwan Star
-### Kontak WA +62851610076509
+
 
 # Berikut Setup untuk Project Ini
 ### Buka aplikasi Replit
